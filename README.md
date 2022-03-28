@@ -8,3 +8,6 @@ I will add new files regularly as they are ready.
 List of files:
 
 - solidity_basics_varibles.sol --> In this file you will find a collection of the varuables available in solidit, with some brief explanation as comments.
+
+
+You can buy me a coffee if you wish to support me and enjoy the content here! I will greately appreciate it! https://www.buymeacoffee.com/soos3d
