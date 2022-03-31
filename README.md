@@ -8,7 +8,7 @@ I will add new files regularly as they are ready.
 List of files:
 
 - solidity_basics_varibles.sol --> In this file you will find a collection of the variables available in solidity, with some brief explanation as comments.
-- solidity_basics_arrays.sol   --> I this file you will find examples of arrays in solidity with some brief explanations a comments.
+- solidity_basics_arrays.sol   --> In this file you will find examples of arrays in solidity with some brief explanations a comments.
 
 
 You can buy me a coffee if you wish to support me and enjoy the content here! I will greately appreciate it! https://www.buymeacoffee.com/soos3d
