@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT                // The solidity compiler likes to have the licence identifier on top
 
 pragma solidity >= 0.6.0 <0.9.0;            // Always specify what solity versions are used at the top
-                                            // this is using the compiler between version 0.6.0 up 0.9.0
+                                            // this is using the compiler between version 0.6.0 up to but not including 0.9.0
                                             // example: ^0.6.0; this is all version 6 */
 
 contract variables {                        // this is a smart contract named variables
