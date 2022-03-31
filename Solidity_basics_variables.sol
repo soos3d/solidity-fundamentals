@@ -45,5 +45,5 @@ struct PeopleStruct{
         uint256 id;    
     }
 
-    PeopleStruct public person = PeopleStruct("Jhon" , 20);     // initialize the struct with a var named jhon and the parameters we have set in the struct
+    PeopleStruct public jhon = PeopleStruct("Jhon" , 20);     // initialize the struct with a var named jhon and the parameters we have set in the struct
 }
