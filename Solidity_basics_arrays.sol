@@ -7,7 +7,7 @@ pragma solidity ^0.8.13;
 // uint[3] public fixeSizeArray = [1,2,3] - uint array containing 3 uint
 // uint[] public dynamicArray = [1,2] - contains 2 uint but more can be added 
 
-contract arrays{
+contract Arrays{
     uint[4] public numbersArray = [1,2,3,4];                 // fix size array containing four uint
     string[] public letterssArray = ["hello","developer"];   // dinamyc array containing strings, more can de added
     uint[] public emptyArray;                                // empty uint dinamyc array
