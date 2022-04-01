@@ -10,6 +10,7 @@ List of files:
 - solidity_basics_varibles.sol --> In this file you will find a collection of the variables available in solidity, with some brief explanation as comments.
 - solidity_basics_arrays.sol   --> In this file you will find examples of arrays in solidity with some brief explanations as comments.
 - solidity_basics_mappings.sol --> In this file you will find examples of mappings in solidity with some brief explanations as comments.
+- solidity_basics_loops.sol    --> In this file you will find examples of loops and conditionals in solidity with some brief explanations as comments.
 
 
 You can buy me a coffee if you wish to support me and enjoy the content here! I will greately appreciate it! https://www.buymeacoffee.com/soos3d
