@@ -58,4 +58,21 @@ contract Conditionals {
             return false;
         }
     }
+    
+    // most common conditional operators:
+     
+//    ! (logical negation)
+//    && (logical conjunction, “and”)
+//    || (logical disjunction, “or”)
+//    == (equality)
+//    != (inequality)
+     
+    // comparisons operators:
+
+//     <=   (smaller or equal than)
+//     <    (smaller than)
+//     ==   (equal to)
+//     !=   (different than)
+//     >=   (bigger or equal than)
+//     >    (bigger than)
 }
