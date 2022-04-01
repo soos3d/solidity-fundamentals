@@ -4,7 +4,7 @@ pragma solidity >= 0.6.0 <0.9.0;            // Always specify what solity versio
                                             // this is using the compiler between version 0.6.0 up to but not including 0.9.0
                                             // example: ^0.6.0; this is all version 6 
 
-contract variables {                        // this is a smart contract named variables
+contract Variables {                        // this is a smart contract named Variables, it's convention to name contacts with a capitalized initial
 
 // data types variables in solidity
 // variables are declared by: variableType VariableName = something
