@@ -48,7 +48,7 @@ contract Conditionals {
         uint times = 10;
         uint howMany = 0;
 
-        while (times > 0){              // keeps looping untile the variable times equal 0
+        while (times > 0){              // keeps looping until the variable times equal 0
             howMany = howMany + 2;      // each loop adds 2 to howMany and remove 1 from times
             times = times - 1;
         }
