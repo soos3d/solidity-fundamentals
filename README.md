@@ -19,5 +19,6 @@ List of example files:
 - StorenumberV2.sol --> Example of a contract that can store a name associated with a number.
 - RentLamboV1.sol   --> Example of a contract that can accept payments.
 - RentLamboV2.sol   --> Example of a more elaborated contract that can accept payments.
+- Coinminter.sol --> Example of a contract to mint coins, send them to other addresses and check addresses balance. 
 
 You can buy me a coffee if you wish to support me and enjoy the content here! I will greately appreciate it! https://www.buymeacoffee.com/soos3d
