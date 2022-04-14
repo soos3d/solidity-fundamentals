@@ -1,4 +1,7 @@
 # solidity-fundamentals
+
+<b> Find the full course on Skillshare, get 30 ays for free using this link! https://skl.sh/3K3VJXg </b>
+
 Here you will find .sol files containing notes and explanations about the basics of the solidity smart contracts language. These are meant to be used to have examples about the syntax and very brief explanations. I recommend to use the Remix IDE to test them. https://remix.ethereum.org/
 
 My goal here is to give clear and basic examples to help teach the foundations of the solidity language, while learning it I have noticed that every tutorial or course skims very quicly over these topics and I want to help providing the basics in a more clear format.
