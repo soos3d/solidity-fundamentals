@@ -1,4 +1,4 @@
-# solidity-fundamentals
+# Solidity fundamentals 
 
 <b> Find the full course on Skillshare, get 30 ays for free using this link! https://skl.sh/3K3VJXg </b>
 
